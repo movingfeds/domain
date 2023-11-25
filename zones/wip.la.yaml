@@ -267,3 +267,4 @@ micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regi
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+cursed: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register curse.wip.la
